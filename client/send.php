@@ -1,5 +1,5 @@
 <?php
-//dfasfdsafadfs
+//しかいぉしけいけいぉし
 ?>
 <!DOCUMENT html>
 <html>
